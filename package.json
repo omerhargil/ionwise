@@ -1,0 +1,19 @@
+{
+  "name": "ionwise",
+  "version": "1.0.0",
+  "description": "Master the nine essential polyatomic ions with active recall, typing practice, and spaced review.",
+  "private": true,
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": [
+    "chemistry",
+    "polyatomic-ions",
+    "education"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
